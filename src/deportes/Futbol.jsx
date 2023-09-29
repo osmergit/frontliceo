@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Futbol = () => {
+export const Futbolsala = () => {
     return (
         <div>
-            
+            Bienvenidos a mi pagina Web de Futbol
         </div>
     );
 };
 
-export default Futbol;
+export default Futbolsala;
 
